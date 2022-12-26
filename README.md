@@ -1,2 +1,3 @@
 # Reno
-Stabality ported over to Java, Reno is much more primiative since i couldnt figure out Java.MalformedURLExecption
+This is my other project stabality but its ported over to java
+Unlike stabality Reno wont show an image, It will give you a link to the image(this will be added later)
